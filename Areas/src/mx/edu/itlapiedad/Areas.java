@@ -6,7 +6,7 @@ public class Areas {
 		// TODO Auto-generated method stub
 
 		Triangulo t = new Triangulo(10,20);
-		System.out.println(t.getArea());
+		System.out.println("El área del triangulo es: " + t.getArea());
 		
 	}
 
